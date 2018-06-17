@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:21:1-110:12
+INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:21:1-110:12
+INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:21:1-110:12
+INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:21:1-110:12
+INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:21:1-110:12
+INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:21:1-110:12
+INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:21:1-110:12
+	package
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:22:5-38
+		INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:24:5-28
+		INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:21:11-69
+	android:versionCode
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:23:5-28
+		INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:26:5-44
+INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:26:5-44
+INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:26:5-44
+INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:26:5-44
+INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:26:5-44
+	android:targetSdkVersion
+		INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:26:5-44
+		INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:26:15-41
+		INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:28:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:29:22-64
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:30:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:31:22-78
+uses-permission#android.permission.INSTALL_PACKAGES
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:32:5-75
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:32:22-72
+uses-permission#android.permission.DELETE_PACKAGES
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:33:5-74
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:33:22-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:35:22-76
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:36:22-65
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:40:5-88
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:40:22-85
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:42:5-74
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:42:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:43:5-78
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:43:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:44:5-67
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:44:22-65
+application
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:45:5-108:19
+	android:label
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:47:9-41
+	android:uiOptions
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:49:9-53
+	android:icon
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:46:9-38
+	android:theme
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:48:9-56
+activity#net.micode.fileexplorer.FileExplorerTabActivity
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:50:9-78:20
+	android:screenOrientation
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:53:13-47
+	android:uiOptions
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:54:13-57
+	android:configChanges
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:52:13-62
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:51:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:56:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:57:17-76
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:57:27-73
+category#android.intent.category.LAUNCHER
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:58:27-74
+intent-filter#android.intent.action.MEDIA_MOUNTED+android.intent.action.MEDIA_UNMOUNTED+android.intent.action.PICK+android.intent.category.DEFAULT
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:60:13-69:29
+action#android.intent.action.PICK
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:61:17-69
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:61:25-66
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:65:17-78
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:65:25-75
+action#android.intent.action.MEDIA_UNMOUNTED
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:66:17-80
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:66:25-77
+data
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:68:17-47
+	android:scheme
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:68:23-44
+	android:mimeType
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:76:23-45
+intent-filter#android.intent.action.GET_CONTENT+android.intent.category.DEFAULT+android.intent.category.OPENABLE
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:70:13-77:29
+action#android.intent.action.GET_CONTENT
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:71:17-76
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:71:25-73
+category#android.intent.category.OPENABLE
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:73:17-77
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:73:27-74
+activity#net.micode.fileexplorer.SearchActivity
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:80:9-90:20
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:80:19-49
+intent-filter#android.intent.action.SEARCH+android.intent.category.DEFAULT
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:81:13-85:29
+action#android.intent.action.SEARCH
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:82:17-71
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:82:25-68
+meta-data#android.app.searchable
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:87:13-89:54
+	android:resource
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:89:17-51
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:88:17-54
+activity#net.micode.fileexplorer.FileExplorerPreferenceActivity
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:92:9-97:20
+	android:label
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:93:13-49
+	android:launchMode
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:94:13-43
+	android:theme
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:96:13-72
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:95:13-58
+service#com.zdp.aseo.content.AseoZdpUpdateService
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:98:10-78
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:98:19-75
+activity#com.iflytek.voiceads.request.IFLYBrowser
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:99:3-101:52
+	android:screenOrientation
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:101:13-49
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:100:13-68
+meta-data#IFLYTEK_APPKEY_AD
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:102:9-80
+	android:value
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:102:54-78
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:102:21-53
+meta-data#android.app.default_searchable
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:103:9-105:47
+	android:value
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:105:13-44
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:104:13-58
+service#net.micode.fileexplorer.FTPServerService
+ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:107:9-53
+	android:name
+		ADDED from C:\temp\FileExplorer\app\src\main\AndroidManifest.xml:107:18-50
